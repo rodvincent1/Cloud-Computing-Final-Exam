@@ -1,18 +1,18 @@
-/* Neo-Futuristic Dashboard Styles */
+/* Neo-Futuristic Dashboard Styles (Cool Muted Blues & Grays) */
 
 :root {
-    --neo-primary: #0f172a;
-    --neo-secondary: #1e293b;
-    --neo-accent: #6366f1;
-    --neo-accent-light: #818cf8;
-    --neo-text: #e2e8f0;
-    --neo-text-secondary: #94a3b8;
-    --neo-bg: #020617;
-    --neo-card: #1e293b;
-    --neo-card-hover: #334155;
-    --neo-success: #10b981;
-    --neo-warning: #f59e0b;
-    --neo-danger: #ef4444;
+    --neo-primary: #7F8CAA;         /* Muted slate blue */
+    --neo-secondary: #333446;       /* Deep charcoal */
+    --neo-accent: #B8CFCE;          /* Soft teal-gray */
+    --neo-accent-light: #EAEFEF;    /* Very light gray */
+    --neo-text: #EAEFEF;            /* Light text for contrast */
+    --neo-text-secondary: #B8CFCE;  /* Soft accent text */
+    --neo-bg: #333446;              /* Background base */
+    --neo-card: #44475A;            /* Slightly lighter dark for cards */
+    --neo-card-hover: #555970;      /* Hover state */
+    --neo-success: #B8CFCE;         /* Calm teal for success */
+    --neo-warning: #7F8CAA;         /* Muted blue for warning */
+    --neo-danger: #A67F7F;          /* Muted rose (fits cooler palette) */
 }
 
 /* Base styles */

@@ -34,7 +34,7 @@ def load_assets():
 
 # Page configuration
 st.set_page_config(
-    page_title="NeoVision Sales Analytics",
+    page_title="Sales Analytics",
     layout="wide",
     page_icon="📊",
     initial_sidebar_state="expanded"
@@ -103,8 +103,8 @@ df = load_data()
 st.markdown("""
     <div class="neo-header">
         <div class="neo-title-container">
-            <h1 class="neo-main-title">NEOVISION ANALYTICS</h1>
-            <div class="neo-subtitle">Sales Performance Intelligence Platform</div>
+            <h1 class="neo-main-title">Sales Performance Intelligence Platform</h1>
+            <div class="neo-subtitle"></div>
         </div>
         <div class="neo-header-gradient"></div>
     </div>
